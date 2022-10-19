@@ -48,9 +48,6 @@ Insurance is also required to get the Brazilian digital Nomad Visa
 - [ ] work contract
 - [ ] Log onto Brazilian Consulate Website
   - [e-consular](https://mail.google.com/mail/u/0/#search/e-consular)
-    - A new password for your account based on the email address mrdeanjm@gmail.com for the system [ec-atlanta.itamaraty.gov.br](https://ec-atlanta.itamaraty.gov.br) has been created.
-- [ ] Do my best to apply for the Digital Nomad Visa
-  - [ ] backup all text to github before submitting application
   - [ ] Get application recipt
   - [ ] Take all original documents to appointment  
   
