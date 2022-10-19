@@ -1,0 +1,1 @@
+# How-to-apply-for-the-brazilian-digital-nomad-visa
