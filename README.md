@@ -60,7 +60,7 @@ Insurance is also required to get the Brazilian digital Nomad Visa
 
   
 <details>
-  <summary><b>Step 2:</b> Inperson interview</summary>
+  <summary><b>Step 2:</b> In person interview</summary>
 
 ----
 
